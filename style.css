@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap');
+body{
+    background-color:dimgray;
+}
+.custom{
+    padding:3%;
+    text-align: center;
+
+}
+.check{
+    display: flex;
+    justify-content: center;
+}
+.set{
+    display: flex;
+    justify-content: space-between;
+}
